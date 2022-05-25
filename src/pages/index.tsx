@@ -27,7 +27,7 @@ const Home: NextPage = () => {
           <Text
             fontSize="16"
           >
-            Matrículas abertas até <strong>05 de Março</strong>
+            Matrículas abertas até <strong>05 de Março Teste</strong>
           </Text>
           <Text
             fontSize="80"
